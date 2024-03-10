@@ -6,6 +6,11 @@ packages.linuxmint.com
 apt.pop-os.org
 archive.ubuntu.com
 ppa.launchpad.net
+repo.radeon.com
+brave-browser-apt-release.s3.brave.com
+repo.steampowered.com
+dl.thorium.rocks
+repo.vivaldi.com
 debian.unnoba.edu.ar
 mirror.sitsa.com.ar
 ftp.am.debian.org
