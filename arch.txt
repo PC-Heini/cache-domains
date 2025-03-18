@@ -3,6 +3,7 @@ arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
 arch.midov.pl
+arch.miningtcup.me
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.square-r00t.net
@@ -74,10 +75,10 @@ de.mirrors.cicku.me
 depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 distro.ibiblio.org
+distrohub.kyiv.ua
 edgeuno-bog2.mm.fcix.net
 elmirror.cl
 es.mirrors.cicku.me
-fastmirror.pp.ua
 forksystems.mm.fcix.net
 fr.mirrors.cicku.me
 free.nchc.org.tw
